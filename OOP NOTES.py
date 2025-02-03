@@ -1,4 +1,4 @@
-# This is notes of Object orianted program in python
+# This is notes of Object oriented program in python
 
 # Object is the instance of class
 # Class is the blueprint 
